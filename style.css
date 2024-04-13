@@ -1,0 +1,75 @@
+body{
+    background-image:url("https://tse2.mm.bing.net/th?id=OIP.ziPzZcf5pUiXXfJZFrrphQHaEa&pid=Api&P=0&w=294&h=175");
+    background-size:contain;
+    background-repeat:no-repeat;
+
+   }
+img{
+  height:200px;
+}
+
+ hr{
+   border-style : none;
+   border-top-style:dotted;
+   border-color:grey;
+   border-width:5px;
+   width:5%;
+    }
+ h1{ font-size:80px;
+     color:#66BFBF;
+      font-family: fantasy;}
+
+h3{color:#66BFBF;
+  font-family:sans-serif;
+   }
+
+ .lamimg{
+    position:absolute;
+    weight:100%;
+    }
+ .ferrari{
+        position:relative;
+        left margin-left: relative;
+        height: :100%;
+
+       }
+ .red{
+    background-color:red;
+    height: 100px;
+    width:100px;
+   }
+
+ .powderblue{
+   background-color: pink;
+   height: 100px;
+   width:100px;
+   position:relative;
+   margin-left: 100px;
+ }
+ .yellow{
+   background-color:yellow;
+   height: 100px;
+   width:100px;
+   position: absolute;
+   margin-left: 200px;
+ }
+ #h1{
+   color:red;
+ }
+ a{
+   color: #11999E;
+   font-family:sans-sarif;
+   margin:auto 10px auto 10px;
+   text-decoration:none;
+
+ }
+
+  a:hover{
+    color:#EAF6F6;
+  }
+ .top-container{
+   background-color:#E4F9F5;
+   position: relative;
+   padding-top: 100px;
+
+ }
